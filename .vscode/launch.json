@@ -12,7 +12,8 @@
             "console": "integratedTerminal",
             "autoReload": {
                 "enable": true
-            }
+            },
+            "subProcess": true
         }
     ]
 }
